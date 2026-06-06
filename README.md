@@ -138,14 +138,6 @@ The Normal Equation becomes expensive at scale due to matrix inversion. Gradient
 
 ---
 
-## Next Steps
-- [ ] Add **Ridge and Lasso regularization** to both implementations
-- [ ] Test Normal Equation on larger datasets to demonstrate numerical instability
-- [ ] Implement **learning rate schedulers** for gradient descent variants
-- [ ] Extend to **Logistic Regression** using the same from-scratch approach
-
----
-
 ## Usage
 
 ```bash
