@@ -153,9 +153,6 @@ The Normal Equation becomes expensive at scale due to matrix inversion. Gradient
 git clone https://github.com/Abhaybh025/YOUR_REPO_NAME
 cd YOUR_REPO_NAME
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Open either notebook
 jupyter notebook MultiLinearRegression.ipynb
 jupyter notebook GradientDescentVariants.ipynb
