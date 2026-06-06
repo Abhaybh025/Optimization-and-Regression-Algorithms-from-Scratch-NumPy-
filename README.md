@@ -7,13 +7,12 @@ A complete from-scratch implementation of Multiple Linear Regression and Gradien
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
-2. [Datasets](#datasets)
+2. [Dataset](#dataset)
 3. [Part 1 — Normal Equation (Closed-Form Solution)](#part-1--normal-equation-closed-form-solution)
 4. [Part 2 — Gradient Descent Variants](#part-2--gradient-descent-variants)
 5. [Key Observations](#key-observations)
 6. [Visualizations](#visualizations)
-7. [Next Steps](#next-steps)
-8. [Usage](#usage)
+7. [Usage](#usage)
 
 ---
 
