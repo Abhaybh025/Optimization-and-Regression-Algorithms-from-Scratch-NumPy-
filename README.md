@@ -51,7 +51,7 @@ No iterative updates, no learning rate — the optimal coefficients are computed
 ```python
 model = MultiLinearReg()
 model.fit(X_train, y_train)       # Computes coefficients via Normal Equation
-predictions = model.predict(X)    # Matrix multiplication with learned weights
+y_pred = model.predict(X)    
 r2  = model.r2_score(y, y_pred)
 mse = model.mse(y, y_pred)
 mae = model.mae(y, y_pred)
